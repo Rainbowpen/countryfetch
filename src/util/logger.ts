@@ -22,7 +22,6 @@ export class Logger {
     console.log(
       nano.cyan("Country:"),
       country.country,
-      country.flag,
       nano.green("\nLat/Lng:"),
       country.latlng,
       nano.green("\nPopulation:"),
