@@ -1,0 +1,177 @@
+[33mcommit add1e111a5ca2f65dddd8afa3bbc640f44c067cc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Simon.Z <cy-cpe940305@hotmail.com>
+Date:   Mon Jun 27 14:32:43 2022 +0800
+
+    remove small flag behind country name.
+
+[33mcommit c7e06f35d9f4b6ac685d59de0ea7d062f520d0e0[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Pridon Tetradze <fridontetradze@gmail.com>
+Date:   Sun Jun 26 20:36:35 2022 +0400
+
+    Update README.md
+
+[33mcommit 84a7812a082d65d41da8be8b63759c7cbe0cdad5[m
+Author: Nikita Kudinov <kudinov.nikita@gmail.com>
+Date:   Sun Jun 26 19:29:49 2022 +0300
+
+    Fix typo (#4)
+
+[33mcommit fa372ff6b116ccd900b373f925a6f707f2c910cb[m
+Author: Pridon Tetradze <fridontetradze@gmail.com>
+Date:   Sun Jun 26 13:51:17 2022 +0400
+
+    Update README.md
+
+[33mcommit 2e058526d896ab4ee5173ceb80d1248ac08ff594[m[33m ([m[1;33mtag: v.1.0.0[m[33m)[m
+Author: Pridon Tetradze <fridontetradze@gmail.com>
+Date:   Sun Jun 26 13:46:59 2022 +0400
+
+    Flag ASCII art, remove tabularization & refactor (#3)
+    
+    * initial flag image converter
+    
+    * add flags caching
+    
+    * refactor, remove tabularization, make flag ASCII optional.
+    
+    * update readme
+    
+    * update readme
+
+[33mcommit 8626e2d8e258e11837d27a1e99ef3277e7dfdf3b[m
+Author: pridon <fridontetradze@gmail.com>
+Date:   Fri Jun 24 19:30:47 2022 +0400
+
+    add top level domain, increase tabularization
+
+[33mcommit d8a686e743f51b20d34bf86d176c1bc1bc8f2e3c[m
+Author: Fridon <fridontetradze@gmail.com>
+Date:   Fri Jun 24 17:29:15 2022 +0400
+
+    add troubleshooting in README.md
+
+[33mcommit 2dd8711eb0188949d322f2c37c0d9a21abd40093[m
+Author: Fridon <fridontetradze@gmail.com>
+Date:   Fri Jun 24 13:43:16 2022 +0400
+
+    update README.md
+
+[33mcommit 9892059afcc1c4528a34f03e80b08b863c8f1ed8[m
+Author: Pridon Tetradze <fridontetradze@gmail.com>
+Date:   Fri Jun 24 13:26:51 2022 +0400
+
+    Update README.md
+
+[33mcommit 8622f3f37988333251265144c2fd8efb75a04d34[m
+Author: Fridon <fridontetradze@gmail.com>
+Date:   Fri Jun 24 13:10:11 2022 +0400
+
+    add lat/lng, subregion and timezones
+
+[33mcommit 001a25e6761f832dfc6241b7d97f54210ab39381[m
+Author: pridon <fridontetradze@gmail.com>
+Date:   Thu Jun 23 23:29:34 2022 +0400
+
+    fix country search prioritizing fuzzy match instead of exact match
+
+[33mcommit eca87f071fc1f4289ef32ba0e5e5aa03a7982902[m
+Author: Pridon Tetradze <fridontetradze@gmail.com>
+Date:   Thu Jun 23 13:42:41 2022 +0400
+
+    Create LICENSE
+
+[33mcommit 660b0439ba9f95f454d73e17575912c021c1efda[m
+Author: Fridon <fridontetradze@gmail.com>
+Date:   Thu Jun 23 09:38:58 2022 +0400
+
+    change population type to string in FetchedCountries
+
+[33mcommit d1950145c013af874b8cb9faeacd49d2b7c633b5[m
+Author: Fridon <fridontetradze@gmail.com>
+Date:   Thu Jun 23 00:04:36 2022 +0400
+
+    update readme
+
+[33mcommit 7d72153d68ea4c682266f0301aa45b4e3a9e45a9[m
+Author: Fridon <fridontetradze@gmail.com>
+Date:   Thu Jun 23 00:01:12 2022 +0400
+
+    big refactor + raw option
+
+[33mcommit be829dad070205555c514ff497fcf2eae355a6e2[m
+Author: Pridon Tetradze <fridontetradze@gmail.com>
+Date:   Wed Jun 22 12:04:35 2022 +0400
+
+    Update README.md
+
+[33mcommit 66b55626a924874b8946de8d7df57c94a66fd350[m
+Author: Fridon <fridontetradze@gmail.com>
+Date:   Wed Jun 22 00:07:16 2022 +0400
+
+    update help and readme
+
+[33mcommit cab126423c647aeac1a2a692b4918772d4e56150[m
+Author: Fridon <fridontetradze@gmail.com>
+Date:   Wed Jun 22 00:01:18 2022 +0400
+
+    add find by capital
+
+[33mcommit 336862f977962d3cbb88e9b7bcf288045c377ac5[m
+Author: Fridon <fridontetradze@gmail.com>
+Date:   Tue Jun 21 23:06:31 2022 +0400
+
+    add case handler for no arguments
+
+[33mcommit 9e941040b9e3e16b05c3e5309619e5885de183a1[m
+Author: Fridon <fridontetradze@gmail.com>
+Date:   Tue Jun 21 22:56:51 2022 +0400
+
+    fix search limitation, add help option and minor changes
+
+[33mcommit 5f17dfba0040b240f7d79f12420331ae62071bfb[m
+Author: Fridon <fridontetradze@gmail.com>
+Date:   Mon Jun 20 17:47:36 2022 +0400
+
+    update readme
+
+[33mcommit 0047da251541b879ab95d09ba292e35da132ab51[m
+Author: Fridon <fridontetradze@gmail.com>
+Date:   Mon Jun 20 17:47:27 2022 +0400
+
+    add installation script
+
+[33mcommit a64258e7748134d4e0a114e0d893c139ad9c331b[m
+Author: Fridon <fridontetradze@gmail.com>
+Date:   Mon Jun 20 17:47:11 2022 +0400
+
+    refactor
+
+[33mcommit 82a2f864b8f676b575d075151d7a2db0fe663b51[m
+Author: Fridon <fridontetradze@gmail.com>
+Date:   Mon Jun 20 17:04:00 2022 +0400
+
+    store and read data in ~/.cache/countries
+
+[33mcommit 5a801fa98fb052d9f4bbd90f497f076e9c5425c1[m
+Author: Fridon <fridontetradze@gmail.com>
+Date:   Mon Jun 20 13:28:11 2022 +0400
+
+    update readme
+
+[33mcommit af45de59390407eff25296edf8f522de6881ecbd[m
+Author: Fridon <fridontetradze@gmail.com>
+Date:   Mon Jun 20 12:45:08 2022 +0400
+
+    refactor to OOP
+
+[33mcommit 522ab8c4358c4c1229e4987ea69455b93b1a5b60[m
+Author: Fridon <fridontetradze@gmail.com>
+Date:   Mon Jun 20 00:55:28 2022 +0400
+
+    update readme
+
+[33mcommit 65261a5ae2ee9c7492b119f1ab1a2a8c19126ef0[m
+Author: Fridon <fridontetradze@gmail.com>
+Date:   Mon Jun 20 00:52:25 2022 +0400
+
+    initial commit
